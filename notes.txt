@@ -1,0 +1,7 @@
+cp -r
+rm -r
+rmdir
+mkdir
+mk
+rm
+
