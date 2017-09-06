@@ -1,0 +1,13 @@
+GIT Notes
+- VCS - version control system
+- Revision - snapshot - it is a snapshot of the current files.
+- VCS is used for collaboration and to keep backups of you to debug if needed
+- There is a merge conflict chance if multiple people are working on the same file. The VCS will try to fix the issue, if it cannot solve the issue, humans will have to fix it.
+- Git is a version of VCS.
+- Git repository - it can only be in one of two states: tracked and untracked
+- There are 3 state of change: Unstaged, Staged, and Comitted.
+- Cannot go from unstaged to comitted
+- Initialize git repository - ‘git init’ in the directory you want to initialize
+- 3 stages = staging index, working tree, history(master branch)
+- Once you commit, you will get information: ID, changes, message, timestamp, author
+- Custom commands for git : get st(status) and git la(log), git ll
