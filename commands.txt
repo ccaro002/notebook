@@ -1,0 +1,347 @@
+    1  ls ~
+    2  quit
+    3  ls -G
+    4  cat /etc/shells
+    5  brew install bash
+    6  xcode-select --install
+    7  xcode-select --install
+    8  cls
+    9  clear
+   10  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   11  brew analytics off
+   12  brew help
+   13  brew install bash
+   14  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+   15  chsh -s /usr/local/bin/bash
+   16  bash - version
+   17  bash - version
+   18  bash -version
+   19  echo $SHELL
+   20  clear
+   21  whoami
+   22  curl -fsSL https://git.io/v50Ta | ruby
+   23  ls
+   24  Desktop/
+   25  cd
+   26  clear
+   27  int x = 5
+   28  x = 5
+   29  whoami
+   30  ls
+   31  pwd
+   32  clear
+   33  ls
+   34  ls ~
+   35  ls /Users/carlcaro/
+   36  rm Music
+   37  rmdir Music
+   38  ls .
+   39  cd Desktop
+   40  ls ..
+   41  ls .
+   42  cd .
+   43  cd.
+   44  cd..
+   45  cd ..
+   46  cd
+   47  clear
+   48  cd Desktop/
+   49  cd
+   50  clear
+   51  open .
+   52  clear
+   53  ls -l
+   54  ls -h
+   55  ls -hl
+   56  ll
+   57  ls -hal
+   58  ls -a
+   59  la
+   60  open
+   61  open .
+   62  ls l
+   63  ls -l
+   64  ls -h
+   65  ls -hal
+   66  man ls
+   67  ls -@
+   68  ls -1
+   69  ls -2
+   70  ls -A
+   71  ls -A -1
+   72  ls -a
+   73  ls -A
+   74  ls -B
+   75  ls -b
+   76  ls -C
+   77  clear
+   78  ls -C
+   79  ls
+   80  ls -c
+   81  ls -d
+   82  ls -e
+   83  ls -F
+   84  ls x
+   85  ls t
+   86  ls -t
+   87  ls -T
+   88  ls -x
+   89  ls s
+   90  ls -s
+   91  ls -R
+   92  ls -R
+   93  man cd
+   94  clear
+   95  help cd
+   96  clear
+   97  env
+   98  echo $SHELL
+   99  echo $USER
+  100  echo $TERM
+  101  echo $PATH
+  102  ls /usr/local/bin
+  103  ls /bin/
+  104  man [
+  105  echo $EDITOR
+  106  nano ~/.bash_profile
+  107  echo $EDITOR
+  108  nano ~/.bash_profile
+  109  cat ~/.bash_profile
+  110  echo $EDITOR
+  111  echo $EDITOR
+  112  echo $SHELL
+  113  echo $PATH
+  114  echo $EDITOR
+  115  nano ~/.bash_profile
+  116  nano ~/.bash_profile
+  117  echo $EDITOR
+  118  clear
+  119  echo $EDITOR
+  120  clear
+  121  brew install tree
+  122  brew install tree
+  123  tree ~
+  124  tree -L 1 ~
+  125  tree -L 2 ~
+  126  cd /
+  127  ll
+  128  ll /Applications
+  129  ll ~/Applications/
+  130  cd
+  131  cd ..
+  132  cd ..
+  133  cd
+  134  cd ..
+  135  la
+  136  cd
+  137  cd ../..
+  138  cd
+  139  cd ..
+  140  cd
+  141  cd ...
+  142  cd
+  143  clear
+  144  cd ./../..
+  145  cd
+  146  cd ././.
+  147  cd ./.././..
+  148  clear
+  149  cd
+  150  clear
+  151  cd /
+  152  cd Users/carlcaro/
+  153  clear
+  154  pwd
+  155  cd ..
+  156  cd carlcaro
+  157  cd ..
+  158  cd /carlcaro
+  159  cd carlcaro
+  160  clear
+  161  cd Desktop
+  162  clear
+  163  cd ..
+  164  Desktop
+  165  Desktop/
+  166  cd..
+  167  clear
+  168  cd ..
+  169  Desktop/
+  170  cd ..
+  171  clear
+  172  cd ..
+  173  cd..
+  174  cd ..
+  175  clear
+  176  dir
+  177  cd ..
+  178  ll
+  179  cd etc
+  180   ll
+  181  cd aliases
+  182  cd apache2
+  183  la
+  184  cd users
+  185  ll
+  186  la
+  187  cd carlcaro.conf
+  188  open carlcaro.conf
+  189  cd +
+  190  cd -
+  191  cd users
+  192  cd *
+  193  cd cd ~
+  194  cd /
+  195  ll
+  196  cd Volumes
+  197  ll
+  198  la
+  199  cd carlcaro
+  200  cd ANT\Domain Users
+  201  ll
+  202  cd Amazon\ Chime/
+  203  ll
+  204  cd Amazon\ Chime.app/
+  205  ll
+  206  cd
+  207  lear
+  208  clear
+  209  defaults write com.apple.dock workspaces-auto-swoosh -bool NO
+  210  killall Dock
+  211  brew install git
+  212  git --version
+  213  brew install bash-completion
+  214  curl -fsSL https://git.io/v504A | ruby
+  215  clear
+  216  git config --global user.name 'Carlos Caro'
+  217  git config --global user.email carlcaro@amazon.com
+  218  git config --list
+  219  curl -fsSL https://git.io/v500H | sh
+  220  git config --list
+  221  java - version
+  222  java -version
+  223  cd 
+  224  mkdir Projects
+  225  mkdir ~/Projects
+  226  cd Projects
+  227  ll
+  228  dir
+  229  la
+  230  clear
+  231  asdasd
+  232  clear
+  233  asd
+  234  mkdir week01
+  235  la
+  236  ll
+  237  la
+  238  clear
+  239  la
+  240  cd week01/
+  241  pwd
+  242  12wqewe
+  243  echo &?
+  244  echo $?
+  245  echo $?
+  246  clear
+  247  mkdir notebook
+  248  cd notebook
+  249  pwd
+  250  touch notes.txt
+  251  la
+  252  cat notes.txt
+  253  la
+  254  nano notes.txt
+  255  nano notes.txt
+  256  nano notes.txt
+  257  mv notes.text commands.txt
+  258  mv notes.txt commands.txt
+  259  clear
+  260  ll
+  261  mv commands.txt notes.txt
+  262  ll
+  263  mkdir temp
+  264  ll
+  265  cp notes.txt commands.txt
+  266  ll
+  267  cp notes.txt notes.txt
+  268  cp notes.txt notes.txt 
+  269  cp notes.txt  notes.txt
+  270  cp notes.txt  ' notes.txt'
+  271  ll
+  272  rm ' notes.txt'
+  273  ll
+  274  cat commands.txt notes.txt
+  275  cp notes.txt NoTes.txt
+  276  la
+  277  rm commands.txt
+  278  la
+  279  rmdir temp
+  280  ll
+  281  la
+  282  clear
+  283  la
+  284  pwd
+  285  cd/
+  286  cdcd ~
+  287  cd Users/carlcaro/Projects/weel01
+  288  clear
+  289  ll
+  290  pwd
+  291  cd week01
+  292  rmdir notebook
+  293  clear
+  294  cd ..
+  295  rmdir notebook
+  296  man rmdir
+  297  rm -r notebook/
+  298  ll
+  299  la
+  300  pwd
+  301  cd /Users/carlcaro/Projects/
+  302  cd week01
+  303  cd /Users/carlcaro/Projects/ rm -r week01/
+  304  cd /Users/carlcaro/Projects/ , rm -r week01/
+  305  clear
+  306  cd /Users/carlcaro/Projects/ &&  rm -r week01/
+  307  la
+  308  mkdir week01/
+  309  l
+  310  la
+  311  cd week01
+  312  cd /Users/carlcaro/Projects/ ; rm -r week01/
+  313  mkdir week01/
+  314  la
+  315  cd week01
+  316  mkdir notes.txt
+  317  la
+  318  rmdir notes.txt
+  319  la
+  320  touch notes.txt
+  321  nano notes.txt
+  322  mkdir notebook
+  323  la
+  324* 
+  325  cp notes.txt /notebook/notes.txt
+  326  clear
+  327  cd notebook
+  328  touch notes.txt
+  329  cd ..
+  330  mv notes.txt /notebook/notes.txt
+  331  la
+  332  cd notebook
+  333  cd ..
+  334  la
+  335  rm notes.txt
+  336  la
+  337  cd notebook
+  338  nano notes.txt
+  339  history
+  340  history
+  341  la
+  342  history > commands.txt
+  343  la
+  344  cat commands.txt
+  345  history 10 > commands.txt
+  346  cat commands.txt
+  347  history > commands.txt
